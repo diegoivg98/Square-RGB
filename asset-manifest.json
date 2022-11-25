@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Square-RGB/static/css/main.964fdded.css",
+    "main.js": "/Square-RGB/static/js/main.c093cd1e.js",
+    "index.html": "/Square-RGB/index.html",
+    "main.964fdded.css.map": "/Square-RGB/static/css/main.964fdded.css.map",
+    "main.c093cd1e.js.map": "/Square-RGB/static/js/main.c093cd1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.c093cd1e.js"
+  ]
+}
